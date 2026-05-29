@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+/.mypy_cache/
+.pytest_cache/
+.vscode/
+.idea/
+
+# Data and models
+data/
+*.txt
+models/
+*.pt
+*.pth
+*.keras
+*.h5
+*.ckpt
+*.ckpt.index
+*.json
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
